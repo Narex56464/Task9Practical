@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gCQGYPY5fMQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\smedg\\source\\repos\\Task9Practical\\Task9Practical.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smedg\\.nuget\\packages\\materialdesigncolors\\5.3.2\\materialdesigncolors.5.3.2.nupkg.sha512",
+    "C:\\Users\\smedg\\.nuget\\packages\\materialdesignthemes\\5.3.2\\materialdesignthemes.5.3.2.nupkg.sha512",
+    "C:\\Users\\smedg\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.77\\microsoft.xaml.behaviors.wpf.1.1.77.nupkg.sha512"
+  ],
+  "logs": []
+}
